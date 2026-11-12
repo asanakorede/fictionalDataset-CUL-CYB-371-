@@ -1,5 +1,11 @@
 # CUL-CYB 371 – Student Dataset
 
+## My details
+1. Name: Asana Korede Daniel
+2. Level: 300 Level
+3. Matric number: 25/17981
+4. Department: Computer Science
+
 ## Project description
 This project contains a fictional dataset of 20 students. It was created with Python for the Data Mining and Data Warehousing assignment.
 
